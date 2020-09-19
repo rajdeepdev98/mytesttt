@@ -1,0 +1,8 @@
+%%Important Git Commands%%%
+
+git init(Initialize an empty git repository in some folder)
+
+git config --global user.name 'RD'
+git config --global user.email 'my mail'
+//These are used to set up my credentials!! 
+hahahahahah
